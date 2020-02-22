@@ -65,3 +65,5 @@ user_groups:
 ---
 
 George Zhi CAO is a Student at School of Economics in Huazhong University of Science and Technology. His research interests include econometrics and finance.
+
+My dream is to be a good economist and photographer.
