@@ -12,7 +12,7 @@
 theme = "minimal"
 
 # Enable users to switch between day and night mode?
-day_night = true
+day_night = false
 
 # Override the theme's font set (optional).
 #   Latest font sets (may require updating): https://sourcethemes.com/academic/themes/
@@ -90,7 +90,7 @@ address = {street = "Luoyu", city = "Wuhan", region = "Hubei", postcode = "43007
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "30.51493265354719", longitude = "114.43159273825587"}
+coordinates = {latitude = "30.51484123585667", longitude = "114.43184821866456"}
 
 # Directions for visitors to locate you.
 directions = "Yunyuan Student Dormitory Building 8"
