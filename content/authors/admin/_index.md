@@ -41,6 +41,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/rexue233
+- icon: cv
+  icon_pack: ai
+  link: img/cv.pdf
 # - icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -49,9 +52,7 @@ social:
 #  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
- - icon: cv
-   icon_pack: ai
-   link: img/cv.pdf
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "cao1235813@163.com"
