@@ -93,7 +93,7 @@ address = {street = "1037 Luoyu Road", city = "Wuhan", region = "Hubei", postcod
 coordinates = {latitude = "30.51415", longitude = "114.40776"}
 
 # Directions for visitors to locate you.
-directions = "Yunyuan Student Apartment Building 8"
+directions = "Building 8 Yunyuan Student Apartment"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
