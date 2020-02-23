@@ -24,8 +24,8 @@ subtitle = ""
   order = "desc"
 
   # Filter posts by a taxonomy term.
-  [content.filters]
-    tag = ""
+  [[content.filters]]
+    tag = "ABC"
     category = ""
     publication_type = ""
     exclude_featured = false
