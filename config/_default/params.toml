@@ -86,14 +86,14 @@ phone = "+86 158 2762 3491"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Luoyu", city = "Wuhan", region = "Hubei", postcode = "430074", country = "China", country_code = "CHN"}
+address = {street = "1037 Luoyu Road", city = "Wuhan", region = "Hubei", postcode = "430074", country = "China", country_code = "CHN"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "30.51484123585667", longitude = "114.43184821866456"}
+coordinates = {latitude = "30.51415", longitude = "114.40776"}
 
 # Directions for visitors to locate you.
-directions = "Yunyuan Student Dormitory Building 8"
+directions = "Yunyuan Student Apartment Building 8"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
