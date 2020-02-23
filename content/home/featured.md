@@ -55,8 +55,6 @@ subtitle = ""
   # Text color (true=light or false=dark).
   # text_color_light = true  
   
-  On Testing Abnormal Returns for Large Number of Stocks (with Bin Peng)
-  
 [advanced]
  # Custom CSS. 
  css_style = ""
