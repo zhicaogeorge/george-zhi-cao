@@ -5,7 +5,7 @@
 
 widget = "featured"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 80  # Order that this section will appear.
 
 title = "Working Papers"
@@ -54,6 +54,8 @@ subtitle = ""
 
   # Text color (true=light or false=dark).
   # text_color_light = true  
+  
+  On Testing Abnormal Returns for Large Number of Stocks (with Bin Peng)
   
 [advanced]
  # Custom CSS. 
