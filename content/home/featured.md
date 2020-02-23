@@ -23,9 +23,9 @@ subtitle = ""
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = "On Testing Abnormal Returns for Large Number of Stocks (with Bin Peng)"
-    category = "A"
-    publication_type = "B"
+    tag = ""
+    category = ""
+    publication_type = ""
   
 [design]
   # Toggle between the various page layout types.
