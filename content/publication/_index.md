@@ -15,16 +15,3 @@ header:
   caption: ""
   image: ""
 ---
-
-+++
-
-  [content.filters]
-    tag = "ABC"
-    category = ""
-    publication_type = ""
-    exclude_featured = false
-    exclude_past = false
-    exclude_future = false
-
-
-+++
