@@ -23,21 +23,10 @@ abstract: ""
 # Summary. An optional shortened abstract.
 summary: working paper with Bin Peng
 
-tags:
-- Source Themes
+tags:''
 featured: false
 
-links:
-- name: Custom Link
-  url: ''
-url_pdf: ''
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+links:''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
