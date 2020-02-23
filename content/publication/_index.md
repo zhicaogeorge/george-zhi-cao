@@ -10,6 +10,6 @@ view: 4
 
 # Optional header image (relative to `static/img/` folder).
 header:
-  caption: ""
+  caption: "On Testing Abnormal Returns for Large Number of Stocks"
   image: ""
 ---
