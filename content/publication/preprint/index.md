@@ -21,7 +21,7 @@ publication_short: ""
 abstract:""
 
 # Summary. An optional shortened abstract.
-summary: working paper with Bin Peng
+summary:  working paper with Bin Peng
 
 tags:
 - Source Themes
