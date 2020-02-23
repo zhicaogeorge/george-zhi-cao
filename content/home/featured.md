@@ -23,7 +23,7 @@ subtitle = ""
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = ""
+    tag = "On Testing Abnormal Returns for Large Number of Stocks (with Bin Peng)"
     category = ""
     publication_type = ""
   
