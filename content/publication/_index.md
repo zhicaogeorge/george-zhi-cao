@@ -15,9 +15,3 @@ header:
   caption: ""
   image: ""
 ---
-
-  [content.filters]
-    tag = "On Testing Abnormal Returns for Large Number of Stocks"
-    category = ""
-    publication_type = ""
-    exclude_featured = false
