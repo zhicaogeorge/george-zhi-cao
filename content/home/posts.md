@@ -4,7 +4,7 @@
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
 title = "Recent Posts"
@@ -25,7 +25,7 @@ subtitle = ""
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = ""
+    tag = "ABC"
     category = ""
     publication_type = ""
     exclude_featured = false
