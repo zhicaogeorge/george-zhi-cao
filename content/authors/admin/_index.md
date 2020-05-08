@@ -26,10 +26,12 @@ interests:
 
 education:
   courses:
-  - course: B.A. in Financial Engineering
+  - course: BA in Financial Engineering
     institution: Huazhong University of Science and Technology
     year: 2016-2020
-
+  - course: PhD in Economics
+    institution: The Chinese University of Hong Kong
+    year: 2020-
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
