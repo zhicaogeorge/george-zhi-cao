@@ -1,6 +1,6 @@
 ---
 # Display name
-name: George Zhi CAO
+name: Zhi (George) CAO
 
 # Username (this should match the folder name)
 authors:
@@ -26,9 +26,9 @@ interests:
 
 education:
   courses:
-  - course: BSc in Financial Engineering
+  - course: B.A. in Financial Engineering
     institution: Huazhong University of Science and Technology
-    year: 2016
+    year: 2016-2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -64,6 +64,6 @@ user_groups:
 - Visitors
 ---
 
-George Zhi CAO is a Student at School of Economics in Huazhong University of Science and Technology. My research interests include econometrics and finance.
+Zhi (George) CAO is a Student at School of Economics in Huazhong University of Science and Technology. My research interests include econometrics and finance.
 
 My dream is to be a good economist and photographer.
