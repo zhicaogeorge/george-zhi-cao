@@ -51,4 +51,5 @@ subtitle = ""
 +++
 ## Working Papers
 * “On Testing Abnormal Returns for Large Number of Stocks”, with [Bin Peng](http://bpeng.weebly.com/), 2020.
+* “On Testing Abnormal Returns for Large Number of Stocks”, with [Bin Peng](http://bpeng.weebly.com/), 2020.
 
