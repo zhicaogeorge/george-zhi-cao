@@ -39,7 +39,7 @@ education:
 social:
 # - icon: envelope
 #  icon_pack: fas
-#  link: '#contact'  # For a direct email link, use "mailto:cao1235813@163.com".
+#  link: '#contact'  # For a direct email link, use "mailto:zhicao@link.cuhk.edu.hk".
 # - icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/rexue233
@@ -66,6 +66,4 @@ user_groups:
 - Visitors
 ---
 
-I'm a student at School of Economics in Huazhong University of Science and Technology now. My research interests include econometrics and finance. 
-
-My dream is to be a good economist and photographer.
+I'm a Ph.D. student at Department of Economics in The Chinese University of Hong Kong now. My research interests include econometrics and finance.
