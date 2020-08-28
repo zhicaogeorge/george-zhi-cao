@@ -82,11 +82,11 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "zhicao@link.cuhk.edu.hk"
-phone = "+86 158 2762 3491/+852 63415042"
+phone = "+86 158 2762 3491 OR +852 63415042"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "The Chinese University of Hong Kong", city = "Sha Tin, New Territorie", region = "Hong Kong", postcode = "999077", country = "HK, China", country_code = "CHN"}
+address = {street = "The Chinese University of Hong Kong", city = "Sha Tin, New Territorie", region = "Hong Kong", country = "HK, China", country_code = "CHN"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -107,8 +107,8 @@ appointment_url = ""
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "wechat", icon_pack = "fab", name = "WeChat Me", link = "images/WeChat.jpeg"},
-  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "https://join.skype.com/invite/dBOpvjrBPZMq"},
+  #{icon = "wechat", icon_pack = "fab", name = "WeChat Me", link = "assets/images/WeChat.jpeg"},
+  #{icon = "skype", icon_pack = "fab", name = "Skype Me", link = "https://join.skype.com/invite/dBOpvjrBPZMq"},
   #{icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
