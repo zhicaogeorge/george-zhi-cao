@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Zhi (George) CAO
+name: Zhi CAO
 
 # Username (this should match the folder name)
 authors:
@@ -26,10 +26,10 @@ interests:
 
 education:
   courses:
-  - course: BA in Financial Engineering
+  - course: B.A. in Economics
     institution: Huazhong University of Science and Technology
     year: 2016-2020
-  - course: PhD in Economics
+  - course: Ph.D. Student in Economics
     institution: The Chinese University of Hong Kong
     year: 2020-
 # Social/Academic Networking
@@ -57,7 +57,7 @@ social:
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "cao1235813@163.com"
+email: "zhicao@link.cuhk.edu.hk"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
