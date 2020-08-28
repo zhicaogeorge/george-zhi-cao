@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Student at School of Economics
+role: Ph.D. Student at Department of Economics
 
 # Organizations/Affiliations
 organizations:
-- name: Huazhong University of Science and Technology 
-  url: ""
+- name: The Chinese University of Hong Kong
+  url: "http://www.cuhk.edu.hk/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include econometrics and finance.
