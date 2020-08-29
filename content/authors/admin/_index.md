@@ -66,4 +66,4 @@ user_groups:
 - Visitors
 ---
 
-I'm a Ph.D. student at Department of Economics in The Chinese University of Hong Kong now. My research interests include econometrics and finance.
+I'm currently a Ph.D. student at Department of Economics, The Chinese University of Hong Kong. My research interests include econometrics and finance.
