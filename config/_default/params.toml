@@ -82,18 +82,18 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "zhicao@link.cuhk.edu.hk"
-phone = {"+86 158 2762 3491", "+852 63415042"}
+phone = {"+86 158 2762 3491 or +852 63415042"}
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-directions = {street = "International House 2", city = "", region = "", country = "HK, China", country_code = "CHN"}
+directions = {street = "The Chinese University of Hong Kong", city = "Sha Tin", region = "New Territorie, Hong Kong", country = "HK, China", country_code = "CHN"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
 coordinates = {latitude = "22.41902", longitude = "114.20889"}
 
 # Directions for visitors to locate you.
-address =  "The Chinese University of Hong Kong, Sha Tin, New Territorie, Hong Kong"
+address =  "International House 2"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
