@@ -93,7 +93,7 @@ address = {street = "The Chinese University of Hong Kong", city = "Sha Tin, New 
 coordinates = {latitude = "22.41902", longitude = "114.20889"}
 
 # Directions for visitors to locate you.
-directions = "(Waiting to know)"
+directions = "International House 2"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
