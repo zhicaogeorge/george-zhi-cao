@@ -50,4 +50,4 @@ subtitle = ""
  css_class = ""
 +++
 ## HUST
- ![](https://cdn.mathpix.com/snip/images/A3JebU6j88gNP9hNiwB1CQVucl7D5dDWIgnWU9pNN-g.original.fullsize.png)
+ ![](assets/images/psb (3).jpeg)
