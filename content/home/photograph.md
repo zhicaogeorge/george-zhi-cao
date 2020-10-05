@@ -50,4 +50,4 @@ subtitle = ""
  css_class = ""
 +++
 ## HUST
-![](assets/images/psb.jpeg)
+ image = "assets/images/psb.jpeg"
