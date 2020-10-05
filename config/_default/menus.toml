@@ -40,7 +40,7 @@
     weight = 40
 
  
-[[main]]
-  name = "Photograph"
-  url = "#photograph"
-  weight = 50
+# [[main]]
+#  name = "Photograph"
+#  url = "#photograph"
+#  weight = 50
